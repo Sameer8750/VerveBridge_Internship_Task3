@@ -87,6 +87,10 @@ Contributions to the dashboard are welcome! Whether you want to enhance the visu
 - Share feedback or suggestions for improvement.
 - Collaborate by sharing new data or insights.
 
+## Conclusion :
+
+The Football Strategy Dashboard serves as a valuable tool for understanding and optimizing football game strategies through detailed metrics and analysis. Coaches and analysts can leverage this information to make informed decisions based on statistical evidence and situational contexts 
+
 ## 📬 Contact :
 Reach out to me:
 
