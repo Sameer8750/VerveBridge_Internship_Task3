@@ -25,6 +25,10 @@ Y-axis: Visualizes the average of trusted_judgments by orig_antecedent and avera
 Legend: Categorical distribution by antecedent.
 Values: Shows the average of time left (in minutes) by antecedent.
 
+## 📊 Dashboard Preview :
+
+
+
 ## 🚀Key Metrics :
 
 - Average of Trusted Judgments: Displays the overall trust in different football strategies, broken down by action type.
@@ -51,3 +55,5 @@ Action Breakdowns
 - "Punt"
 - "Kick a field goal"
 - "Kneel down"
+
+
