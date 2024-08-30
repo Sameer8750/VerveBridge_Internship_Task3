@@ -2,7 +2,8 @@
 
 # Football Strategy Analysis
 
-# 📊 Dataset Overview :
+## 📊 Dataset Overview :
+
 The Football Strategy Dashboard is designed to analyze game strategies by evaluating various actions taken during football plays. It provides insights into the average trusted judgments made by players, the frequency of different types of plays, and the average time left for decision-making.
 
 **Key Features of the Dashboard :**
@@ -24,7 +25,7 @@ Y-axis: Visualizes the average of trusted_judgments by orig_antecedent and avera
 Legend: Categorical distribution by antecedent.
 Values: Shows the average of time left (in minutes) by antecedent.
 
-# 🚀Key Metrics :
+## 🚀Key Metrics :
 
 - Average of Trusted Judgments: Displays the overall trust in different football strategies, broken down by action type.
 - Action Types: Includes decisions such as "run," "pass," "kick a field goal," and "kneel down."
