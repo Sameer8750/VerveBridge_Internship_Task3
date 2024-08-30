@@ -45,8 +45,9 @@ Up by 7 points
 Action Breakdowns
 
 - Common Actions:
-"Don't know / I..."
-"Run"
-"Punt"
-"Kick a field goal"
-"Kneel down"
+  
+- "Don't know / I..."
+- "Run"
+- "Punt"
+- "Kick a field goal"
+- "Kneel down"
