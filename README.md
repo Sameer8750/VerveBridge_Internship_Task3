@@ -33,22 +33,32 @@ Values: Shows the average of time left (in minutes) by antecedent.
 
 ## 🚀Key Metrics :
 
-- Average of Trusted Judgments: Displays the overall trust in different football strategies, broken down by action type.
-- Action Types: Includes decisions such as "run," "pass," "kick a field goal," and "kneel down."
-- Game Situations: Offers insights based on the score differences, such as:
+**Average of Trusted Judgments:**
+  Displays the overall trust in different football strategies, broken down by action type.
+  
+**Action Types:**
+  Includes decisions such as "run," "pass," "kick a field goal," and "kneel down."
+  
+**Game Situations:**
+  Offers insights based on the score differences, such as:
 
-Down by 10 points
-Down by points
-Down by 3 points
-Down by 7 points
-Up by 3 points
-Up by 7 points
+- Down by 10 points
+- Down by points
+- Down by 3 points
+- Down by 7 points
+- Up by 3 points
+- Up by 7 points
 
-- Average Time Left (in minutes): Ranges from approximately 1.95 to 3.79 minutes for critical decisions based on specific antecedents.
-- Count of Unit States: Provides a count of different game statuses, indicating how many times each state has been measured (e.g., finalized or golden).
-- Confidence Levels: Reflects the average confidence in judgments associated with play actions.
+  **Average Time Left (in minutes):**
+   Ranges from approximately 1.95 to 3.79 minutes for critical decisions based on specific antecedents.
+  
+  **Count of Unit States:**
+   Provides a count of different game statuses, indicating how many times each state has been measured (e.g., finalized or golden).
+
+  **Confidence Levels:**
+   Reflects the average confidence in judgments associated with play actions.
  
-Action Breakdowns
+  Action Breakdowns
 
 - Common Actions:
   
