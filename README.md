@@ -27,6 +27,8 @@ Values: Shows the average of time left (in minutes) by antecedent.
 
 ## 📊 Dashboard Preview :
 
+![Screenshot (235)](https://github.com/user-attachments/assets/f5f34feb-286b-4120-be82-c416dcb96ed7)
+
 
 
 ## 🚀Key Metrics :
