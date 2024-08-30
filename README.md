@@ -4,7 +4,7 @@
 
 ## 📊 Dataset Overview :
 
-The Football Strategy Dashboard is designed to analyze game strategies by evaluating various actions taken during football plays. It provides insights into the average trusted judgments made by players, the frequency of different types of plays, and the average time left for decision-making.
+The Football Strategy Dashboard is designed to analyze game strategies by evaluating various actions taken during football plays. It provides insights into the average trusted judgments made by players, the frequency of different types of plays, and the average time left for decision-making. ⚽📊
 
 **Key Features of the Dashboard :**
 
@@ -57,5 +57,33 @@ Action Breakdowns
 - "Punt"
 - "Kick a field goal"
 - "Kneel down"
+
+## 🧰 Tools Used :
+
+- Power BI
+- DAX (Data Analysis Expressions)
+- Python
+
+## 💡 Insights :
+
+- Strategic Choices: The dashboard reveals key patterns in strategic decision-making based on various game scenarios.
+- Confidence Levels: The confidence in a chosen strategy often predicts its success rate.
+- Scenario Frequency: Some scenarios are more common, influencing the overall strategy employed.
+
+## 🤝 Contributing :
+
+Contributions to the dashboard are welcome! Whether you want to enhance the visualizations or add new data:
+
+- Share feedback or suggestions for improvement.
+- Collaborate by sharing new data or insights.
+
+## 📬 Contact :
+Reach out to me:
+
+- Sameer Shinde
+- Email: sameershinde1621@gmail.com
+
+Explore and analyze football strategies to gain a competitive edge on the field! ⚽📊
+
 
 
